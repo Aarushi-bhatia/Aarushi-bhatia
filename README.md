@@ -1,4 +1,23 @@
 <div align="center">
+
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                                                                               │
+│   ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██          │
+│   ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██          │
+│   ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██          │
+│   ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██                  │
+│    ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██          │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Aarushi+Bhatia;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+</div>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> <!-- React -->
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"> <!-- Node -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
