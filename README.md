@@ -1,4 +1,5 @@
 <div align="center">
+![Kuromi Sticker](https://media.tenor.com/FBDz57q3neMAAAAi/hello-kitty.gif)
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────────┐
