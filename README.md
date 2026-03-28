@@ -12,4 +12,3 @@ user@github:~$ cat stack.txt
 user@github:~$ echo $GOAL
 Solving O(n!) problems in O(n) time
 ```
-![github contribution snake](./github-contribution-snake.svg)
